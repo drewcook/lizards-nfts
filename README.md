@@ -1,6 +1,6 @@
 # Lizards NFT project
 
-Extended from [this example](https://github.com/409H/sample_nft_project) but with PhanFT lizard traits.
+Extended from [this example](https://github.com/409H/sample_nft_project) but with [PhanFT](https://phanft.xyz) lizard traits.
 
 ## Directories & Files
 
